@@ -30,7 +30,6 @@ const CartContent = () => {
       <CartTotals />
     </Wrapper>
   );
-  return <h4>cart content </h4>;
 };
 const Wrapper = styled.section`
   .link-container {
